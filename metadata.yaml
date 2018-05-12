@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8128'
     url: http://www.gutenberg.org/2009/agents/8128
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18576#The-Cave-Boy-of-the-Age-of-Stone
 gutenberg_issued: '2006-06-13'
 gutenberg_type: Text
 identifiers:
